@@ -4,5 +4,7 @@ TECNOLÓGICO NACIONAL DE MÉXICO
 INSTITUTO TECNOLÓGICO DEL VALLE DE OAXACA
 
 Elaborado por: Roberto Kevin Benítez Peña
+
 Grago: 8vo
+
 Grupo: I8A
